@@ -46,13 +46,13 @@ Gráfico de barras de calificación promedio
 
 Gráfico de barras de costo de envío promedio
 
-🎯 Conclusión
+Conclusión
 
 Después de analizar ingresos, satisfacción del cliente y productos vendidos:
 
 Con base en el análisis integral, se recomienda vender en la tienda 2 que presenta el mejor equilibrio entre ingresos altos y buena percepción del cliente.
 
-🛠 Tecnologías Utilizadas
+Tecnologías Utilizadas
 Python
 pandas
 matplotlib
